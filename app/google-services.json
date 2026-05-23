@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "82742530985",
+    "project_id": "posturecoach-75e5f",
+    "storage_bucket": "posturecoach-75e5f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:82742530985:android:3d684e390f7e6e079aeab8",
+        "android_client_info": {
+          "package_name": "com.posturecoach"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAfoVE0mUhjBeNyMt_JDLtp3lSubqsXDM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

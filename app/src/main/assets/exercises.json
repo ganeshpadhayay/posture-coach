@@ -1,0 +1,82 @@
+{
+  "exercises": [
+    {
+      "id": "chin_tucks",
+      "name": "Chin tucks",
+      "issue": "forward_head",
+      "instructions": [
+        "Sit or stand tall, shoulders relaxed.",
+        "Without tilting your head, draw it straight back so you make a 'double chin'.",
+        "Hold 5 seconds, then relax.",
+        "Repeat 10 times."
+      ],
+      "durationSec": 60,
+      "gifAsset": "exercises/chin_tucks.gif"
+    },
+    {
+      "id": "neck_stretch",
+      "name": "Neck side stretch",
+      "issue": "forward_head",
+      "instructions": [
+        "Sit tall. Drop your right ear toward your right shoulder.",
+        "Place your right hand gently on the side of your head for a light stretch.",
+        "Hold 20 seconds. Switch sides.",
+        "Repeat 2 times per side."
+      ],
+      "durationSec": 90,
+      "gifAsset": "exercises/neck_stretch.gif"
+    },
+    {
+      "id": "wall_angels",
+      "name": "Wall angels",
+      "issue": "rounded_shoulders",
+      "instructions": [
+        "Stand with your back against a wall, feet 6 inches out.",
+        "Press lower back, shoulders, and head to the wall.",
+        "Raise arms to a 'goal post' position and slowly slide them up and down.",
+        "Keep contact with the wall throughout. 10 reps."
+      ],
+      "durationSec": 90,
+      "gifAsset": "exercises/wall_angels.gif"
+    },
+    {
+      "id": "doorway_chest_stretch",
+      "name": "Doorway chest stretch",
+      "issue": "rounded_shoulders",
+      "instructions": [
+        "Stand in a doorway, arms bent 90° resting on the frame.",
+        "Step one foot forward to feel a stretch across the chest.",
+        "Hold 30 seconds. Breathe slowly.",
+        "Repeat 2 times."
+      ],
+      "durationSec": 90,
+      "gifAsset": "exercises/doorway_stretch.gif"
+    },
+    {
+      "id": "cat_cow",
+      "name": "Cat-cow",
+      "issue": "slouching",
+      "instructions": [
+        "Start on hands and knees, wrists under shoulders, knees under hips.",
+        "Inhale: arch your back, lift your chest and tailbone (cow).",
+        "Exhale: round your spine, tuck your chin (cat).",
+        "Flow for 10 slow breaths."
+      ],
+      "durationSec": 90,
+      "gifAsset": "exercises/cat_cow.gif"
+    },
+    {
+      "id": "thoracic_extension",
+      "name": "Thoracic extension over chair",
+      "issue": "slouching",
+      "instructions": [
+        "Sit in a chair, hands behind your head.",
+        "Lift your chest and arch gently over the chair back.",
+        "Hold 3 seconds, then return.",
+        "Repeat 10 times."
+      ],
+      "durationSec": 75,
+      "gifAsset": "exercises/thoracic_extension.gif"
+    }
+  ]
+}

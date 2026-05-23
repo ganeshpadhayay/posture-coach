@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PostureCoach</string>
+
+    <!-- Onboarding -->
+    <string name="onboarding_welcome_title">Stand tall again</string>
+    <string name="onboarding_welcome_body">PostureCoach checks your posture in seconds and shows quick fixes that actually work.</string>
+    <string name="onboarding_how_title">How it works</string>
+    <string name="onboarding_how_body">Snap a side-profile photo. We highlight any forward head, rounded shoulders, or slouch — and suggest stretches tailored to you.</string>
+    <string name="onboarding_perm_title">A couple of permissions</string>
+    <string name="onboarding_perm_body">Camera is required for posture checks. Activity Recognition and notifications help us nudge you when you\'ve been sitting too long.</string>
+    <string name="next">Next</string>
+    <string name="back">Back</string>
+    <string name="get_started">Get started</string>
+    <string name="skip">Skip</string>
+    <string name="grant_camera">Allow Camera</string>
+    <string name="grant_notifications">Allow Notifications</string>
+    <string name="grant_activity">Allow Activity Recognition</string>
+    <string name="granted">Granted</string>
+
+    <!-- Home -->
+    <string name="home_title">Today</string>
+    <string name="check_posture">Check posture</string>
+    <string name="last_scan">Last scan</string>
+    <string name="no_scans_yet">No scans yet — let\'s start.</string>
+    <string name="sitting_today">Sitting today</string>
+    <string name="time_to_move">Time to move</string>
+    <string name="settings">Settings</string>
+
+    <!-- Scan -->
+    <string name="scan_tip">Stand sideways, full body in frame, plain background.</string>
+    <string name="capture">Capture</string>
+    <string name="cancel">Cancel</string>
+    <string name="analyzing">Analyzing your posture…</string>
+
+    <!-- Results -->
+    <string name="results_title">Your posture</string>
+    <string name="looks_good">Looks good — nothing flagged.</string>
+    <string name="view_exercises">View exercises</string>
+    <string name="retake">Retake</string>
+    <string name="no_pose_detected">We couldn\'t find a clear pose. Try again with better lighting and a side profile.</string>
+
+    <!-- Exercises -->
+    <string name="exercises_title">Suggested exercises</string>
+    <string name="exercise_duration">%1$d sec</string>
+
+    <!-- Settings -->
+    <string name="settings_title">Settings</string>
+    <string name="notifications_enabled">Enable nudges</string>
+    <string name="frequency">Nudge frequency</string>
+    <string name="frequency_low">Low</string>
+    <string name="frequency_medium">Medium</string>
+    <string name="frequency_high">High</string>
+    <string name="sitting_threshold">Sitting threshold</string>
+    <string name="minutes_value">%1$d min</string>
+
+    <!-- Notifications -->
+    <string name="notification_channel_name">Posture nudges</string>
+    <string name="notification_channel_desc">Reminders to move and check your posture.</string>
+    <string name="nudge_sitting_title">Time for a stretch</string>
+    <string name="nudge_sitting_body">You\'ve been sitting for %1$d min. Walk for 2 mins.</string>
+    <string name="nudge_scan_title">Quick posture check?</string>
+    <string name="nudge_scan_body">A 5-second scan keeps you aware.</string>
+
+    <!-- Posture issues -->
+    <string name="issue_forward_head">Forward head</string>
+    <string name="issue_forward_head_desc">Your neck looks like it\'s leaning forward.</string>
+    <string name="issue_rounded_shoulders">Rounded shoulders</string>
+    <string name="issue_rounded_shoulders_desc">Your shoulders look slightly rounded.</string>
+    <string name="issue_slouching">Slouching</string>
+    <string name="issue_slouching_desc">Your spine is tilting forward.</string>
+</resources>
